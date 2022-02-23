@@ -11,5 +11,8 @@ En esta actividad se reconstruye la página web que hicimos en la primera secci�
         ✔  css
 🔥 El ejercicio debe de tener un estilo coherente y bien maquetado, se valorará positivamente la inclusión de css propio y el uso de selectores correctos, así como de propiedades css no vistas en clase.
 
-[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />]
-[<img src="https://img.icons8.com/office/150/000000/tap-gesture.png"  width="35"/>](https://github.com/user/repository/subscription)
+💡 Utlilizamos Git gub pages para hostear la actividad:
+
+[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />](https://alyconr.github.io/actividad-css-boostrap/) 
+
+
