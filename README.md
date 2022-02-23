@@ -1,6 +1,6 @@
 
 
-## Actividad CSS y Boostrap Semana dos🔗
+## Actividad CSS y Boostrap Semana Dos🔗
 💻
 En esta actividad se reconstruye la página web que hicimos en la primera sección del módulo, donde planteamos el árbol básico de html sin estilos. Utilizando bootstrap y css propio daremos estilo a nuestra página web. Podremos utilizar referencias visuales y recursos de diseño desde Bootstrap.
 
