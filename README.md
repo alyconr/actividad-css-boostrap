@@ -13,6 +13,6 @@ En esta actividad se reconstruye la página web que hicimos en la primera secci�
 
 💡 Utlilizamos Git gub pages para hostear la actividad:
 
-[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />](https://alyconr.github.io/survey-form/) 
+[<img src="https://img.icons8.com/external-smashingstocks-hand-drawn-black-smashing-stocks/99/000000/external-click-music-and-multimedia-smashingstocks-hand-drawn-black-smashing-stocks.png" />]( https://alyconr.github.io/actividad-css-boostrap/) 
 
 
